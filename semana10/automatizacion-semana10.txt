@@ -1,0 +1,7 @@
+Evento: Asignación de tareas al equipo
+
+Acción: enviar mensaje a Telegram.
+
+Mensaje: “Se te ha asignado la siguiente tarea para el proyecto X. Ingresa a revisar”
+
+Información que no debe enviarse: documentos de identidad, direcciones, teléfonos, claves o datos sensibles.

@@ -1,0 +1,6 @@
+¿Qué 2 tareas del backlog harías primero?
+Realizaria el registro del caso de un ciudadano y permitir la asignacion de tareas del gerente
+¿Por qué son las más importantes?
+Ademas de que son las tareas con prioridad alta, esas tareas implican el objetivo principal de la plataforma comunitaria
+¿Qué significa para ti que una tarea esté “terminada”?
+Una tarea para mi esta terminada cuando ya fue analizada, revisada y probada por el equipo, ademas es subida en git.

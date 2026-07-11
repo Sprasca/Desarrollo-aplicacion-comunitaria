@@ -1,0 +1,3 @@
+El login de una aplicacion es un metodo de verificacion que permite controlar el acceso a informacion o servicios sensibles, la cual no pueden acceder todos los usuarios. 
+Algunas rutas deben estar protegidas porque contienen informacion privada y sensible que no puede ser expuestas a todas las peticiones que se presenten, si no que solo necesitan ingresar los roles que vayan a trabajar con esas rutas unicamente.
+Teniendo eso en cuenta no se debe nunca exponer la informacion personal, privada y única: ID, nombre completo, direccion, numero de telefono, contraseñas, tokens, número de cuenta y API key.

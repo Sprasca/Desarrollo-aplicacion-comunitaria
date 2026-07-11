@@ -1,0 +1,2 @@
+¿Por qué una plataforma tecnológica que promueve participación ciudadana debe tener base de datos, autenticación de usuarios y protección de información?
+Es importante porque se debe llevar un registro sobre todas las peticiones que se hicieron en una comunidad, del mismo modo se debe proteger la informacion de los usuarios ya que es un activo sensible y solo debe mostrarse a usuarios limitados que sean autorizados 

@@ -1,0 +1,19 @@
+Entidad: Evento
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar el evento que estremcio a la comunidad.
+
+Entidad: Estado Evento 
+Campos principales:
+id_estado
+estado evento
+fecha_respuesta
+
+Propósito:
+La comunidad conozca cual es el estado de la peticion que envió.
